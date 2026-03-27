@@ -27,20 +27,25 @@
 
 ### Movies Only
 <p align="center">
-  <picture>
+  <a href="https://trakt.tv/users/Rojod/" target="_blank">
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-movies-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-movies-light.svg">
-    <img alt="Trakt movies only graph" src="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-movies-light.svg" width="100%">
-  </picture>
+      <img alt="Trakt contribution graph" src="https://github.com/DevRojod/trakt-graph/raw/main/images/github-trakt-light.svg" width="100%">
+    </picture>
+  </a>
 </p>
 
 ### Episodes Only
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-shows-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-shows-light.svg">
-    <img alt="Trakt episodes only graph" src="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-shows-light.svg" width="100%">
-  </picture>
+  <a href="https://trakt.tv/users/Rojod/" target="_blank">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-shows-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/trakt-shows-light.svg">
+      <img alt="Trakt contribution graph" src="https://github.com/DevRojod/trakt-graph/raw/main/images/github-trakt-light.svg" width="100%">
+    </picture>
+  </a>
 </p>
 
 ## 🤝 Contributing & License
