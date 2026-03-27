@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trakt.tv/users/DevRojod/" target="_blank">
+  <a href="https://trakt.tv/users/Rojod/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/github-trakt-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevRojod/trakt-graph/raw/main/images/github-trakt-light.svg">
@@ -23,7 +23,7 @@
 </p>
 
 ---
-## 📸 Examples
+## 📸 Detailed
 
 ### Movies Only
 <p align="center">
