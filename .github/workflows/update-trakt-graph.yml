@@ -4,10 +4,10 @@ name: Update Trakt Graph
 # ║  CONFIGURATION - Edit these values for your Trakt profile      ║
 # ╚════════════════════════════════════════════════════════════════╝
 env:
-  TRAKT_USERNAME: "TheLagacyMiner"     # Your Trakt username
-  YEARS: "2026,2025"                           # Years to generate (e.g. "2025,2024" or leave empty for current)
+  TRAKT_USERNAME: "Rojod"     # Your Trakt username
+  YEARS: "2026,2025,2024,2023,2022,2021"                   # Years to generate (e.g. "2025,2024" or leave empty for current)
   CONTENT_TYPE: "all"                 # "movies", "shows", or "all"
-  EXPORT_PNG: "false"                 # Set to "true" to also generate PNG files
+  EXPORT_PNG: "true"                 # Set to "true" to also generate PNG files
   WEEK_START: "sunday"                # "sunday" or "monday"
   GRADIENT: "true"                    # "true" for colored name, "false" for white
 
