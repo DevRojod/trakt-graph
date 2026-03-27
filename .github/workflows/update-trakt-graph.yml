@@ -5,7 +5,7 @@ name: Update Trakt Graph
 # ╚════════════════════════════════════════════════════════════════╝
 env:
   TRAKT_USERNAME: "Rojod"     # Your Trakt username
-  YEARS: "2026,2025,2024,2023,2022,2021"                   # Years to generate (e.g. "2025,2024" or leave empty for current)
+  YEARS: "2026,2025,2024,2023,2022,2021,2020,2019,2018,2017"                   # Years to generate (e.g. "2025,2024" or leave empty for current)
   CONTENT_TYPE: "all"                 # "movies", "shows", or "all"
   EXPORT_PNG: "true"                 # Set to "true" to also generate PNG files
   WEEK_START: "sunday"                # "sunday" or "monday"
