@@ -99,7 +99,7 @@
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">12261</tspan>
+      <tspan dx="5" fill="#1f2328">12268</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -112,21 +112,21 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1042 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1049 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">102 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">103 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="32" font-size="9" fill="#1f2328" text-anchor="middle">321</text>
+        <text x="27" y="32" font-size="9" fill="#1f2328" text-anchor="middle">327</text>
         <rect x="20" y="35" width="14" height="45" rx="2" fill="#ed4c55"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
-        <text x="51" y="57" font-size="9" fill="#1f2328" text-anchor="middle">140</text>
-        <rect x="44" y="60" width="14" height="20" rx="2" fill="#ed4c55"/>
+        <text x="51" y="58" font-size="9" fill="#1f2328" text-anchor="middle">140</text>
+        <rect x="44" y="61" width="14" height="19" rx="2" fill="#ed4c55"/>
         <text x="51" y="100" font-size="9" fill="#1f2328" text-anchor="middle">M</text>
         <text x="75" y="62" font-size="9" fill="#1f2328" text-anchor="middle">108</text>
         <rect x="68" y="65" width="14" height="15" rx="2" fill="#ed4c55"/>
@@ -137,10 +137,10 @@
         <text x="123" y="62" font-size="9" fill="#1f2328" text-anchor="middle">108</text>
         <rect x="116" y="65" width="14" height="15" rx="2" fill="#ed4c55"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="147" y="58" font-size="9" fill="#1f2328" text-anchor="middle">134</text>
-        <rect x="140" y="61" width="14" height="19" rx="2" fill="#ed4c55"/>
+        <text x="147" y="59" font-size="9" fill="#1f2328" text-anchor="middle">134</text>
+        <rect x="140" y="62" width="14" height="18" rx="2" fill="#ed4c55"/>
         <text x="147" y="100" font-size="9" fill="#1f2328" text-anchor="middle">F</text>
-        <text x="171" y="61" font-size="9" fill="#1f2328" text-anchor="middle">114</text>
+        <text x="171" y="61" font-size="9" fill="#1f2328" text-anchor="middle">115</text>
         <rect x="164" y="64" width="14" height="16" rx="2" fill="#ed4c55"/>
         <text x="171" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
       </g>
@@ -782,12 +782,18 @@
           width="14"
           height="14"
           rx="2"
-          fill="#ebedf0"
+          fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(272, -46)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(272, -154)">
+          <rect x="0" y="0" width="280" height="146" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Sun, 19. Apr 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 19. Apr 2026: 6 items watched</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E03 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E03 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E03 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E02 (2023)</tspan>
+            <tspan x="10" dy="18">• Boston Blue S01E15 (2025)</tspan>
+            <tspan x="10" dy="18">• Boston Blue S01E15 (2025)</tspan>
           </text>
         </g>
       </a>
@@ -7130,10 +7136,11 @@
           rx="2"
           fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(255, -106)">
-          <rect x="0" y="0" width="280" height="200" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(255, -124)">
+          <rect x="0" y="0" width="280" height="218" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Sat, 18. Apr 2026: 9 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 18. Apr 2026: 10 items watched</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E01 (2023)</tspan>
             <tspan x="10" dy="18">• The Simpsons S33E04 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S33E04 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S33E22 (1989)</tspan>
