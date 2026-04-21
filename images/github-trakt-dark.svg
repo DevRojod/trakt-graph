@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12273</tspan>
+      <tspan dx="5" fill="#e6edf3">12303</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,12 +112,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1054 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1084 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">104 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">105 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -125,11 +125,11 @@
         <text x="27" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">328</text>
         <rect x="20" y="35" width="14" height="45" rx="2" fill="#c41e2a"/>
         <text x="27" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
-        <text x="51" y="57" font-size="9" fill="#f0f6fc" text-anchor="middle">144</text>
-        <rect x="44" y="60" width="14" height="20" rx="2" fill="#c41e2a"/>
+        <text x="51" y="54" font-size="9" fill="#f0f6fc" text-anchor="middle">164</text>
+        <rect x="44" y="57" width="14" height="23" rx="2" fill="#c41e2a"/>
         <text x="51" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">M</text>
-        <text x="75" y="62" font-size="9" fill="#f0f6fc" text-anchor="middle">108</text>
-        <rect x="68" y="65" width="14" height="15" rx="2" fill="#c41e2a"/>
+        <text x="75" y="61" font-size="9" fill="#f0f6fc" text-anchor="middle">118</text>
+        <rect x="68" y="64" width="14" height="16" rx="2" fill="#c41e2a"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
         <text x="99" y="61" font-size="9" fill="#f0f6fc" text-anchor="middle">117</text>
         <rect x="92" y="64" width="14" height="16" rx="2" fill="#c41e2a"/>
@@ -1867,10 +1867,30 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(272, -101)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(272, -461)">
+          <rect x="0" y="0" width="280" height="470" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 20. Apr 2026: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 20. Apr 2026: 24 items watched</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E08 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E07 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E06 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E05 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E04 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E03 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E02 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E01 (2018)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E10 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E10 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E09 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E09 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E08 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E07 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E06 (2023)</tspan>
+            <tspan x="10" dy="18">• Rooster S01E07 (2026)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E06 (2023)</tspan>
+            <tspan x="10" dy="18">• Rooster S01E07 (2026)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E06 (2023)</tspan>
+            <tspan x="10" dy="18">• The Night Agent S03E05 (2023)</tspan>
             <tspan x="10" dy="18">• The Night Agent S03E05 (2023)</tspan>
             <tspan x="10" dy="18">• The Night Agent S03E04 (2023)</tspan>
             <tspan x="10" dy="18">• The Night Agent S03E05 (2023)</tspan>
@@ -2913,12 +2933,22 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(272, -12)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(272, -192)">
+          <rect x="0" y="0" width="280" height="218" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 21. Apr 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 21. Apr 2026: 10 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S33E06 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S33E03 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S33E02 (1989)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E15 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E14 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E13 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E12 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E11 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E10 (2018)</tspan>
+            <tspan x="10" dy="18">• LA to Vegas S01E09 (2018)</tspan>
           </text>
         </g>
       </a>
