@@ -99,7 +99,7 @@
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">12317</tspan>
+      <tspan dx="5" fill="#1f2328">12334</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -112,12 +112,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1096 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1115 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">106 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">107 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -131,11 +131,11 @@
         <text x="75" y="60" font-size="9" fill="#1f2328" text-anchor="middle">125</text>
         <rect x="68" y="63" width="14" height="17" rx="2" fill="#ed4c55"/>
         <text x="75" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="99" y="60" font-size="9" fill="#1f2328" text-anchor="middle">122</text>
-        <rect x="92" y="63" width="14" height="17" rx="2" fill="#ed4c55"/>
+        <text x="99" y="58" font-size="9" fill="#1f2328" text-anchor="middle">136</text>
+        <rect x="92" y="61" width="14" height="19" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
-        <text x="123" y="62" font-size="9" fill="#1f2328" text-anchor="middle">108</text>
-        <rect x="116" y="65" width="14" height="15" rx="2" fill="#ed4c55"/>
+        <text x="123" y="61" font-size="9" fill="#1f2328" text-anchor="middle">113</text>
+        <rect x="116" y="64" width="14" height="16" rx="2" fill="#ed4c55"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
         <text x="147" y="59" font-size="9" fill="#1f2328" text-anchor="middle">134</text>
         <rect x="140" y="62" width="14" height="18" rx="2" fill="#ed4c55"/>
@@ -4005,10 +4005,24 @@
           rx="2"
           fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(272, -85)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(272, -337)">
+          <rect x="0" y="0" width="280" height="380" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Wed, 22. Apr 2026: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 22. Apr 2026: 19 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S30E03 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S30E02 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S30E02 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S30E01 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S30E01 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S30E01 (1989)</tspan>
+            <tspan x="10" dy="18">• NCIS S23E17 (2003)</tspan>
+            <tspan x="10" dy="18">• NCIS S23E17 (2003)</tspan>
+            <tspan x="10" dy="18">• NCIS: Sydney S03E16 (2023)</tspan>
+            <tspan x="10" dy="18">• NCIS: Sydney S03E16 (2023)</tspan>
+            <tspan x="10" dy="18">• Hawaii Five-0 S07E04 (2010)</tspan>
+            <tspan x="10" dy="18">• Hawaii Five-0 S07E04 (2010)</tspan>
+            <tspan x="10" dy="18">• Hawaii Five-0 S07E04 (2010)</tspan>
+            <tspan x="10" dy="18">• Hawaii Five-0 S07E03 (2010)</tspan>
             <tspan x="10" dy="18">• Hawaii Five-0 S07E03 (2010)</tspan>
             <tspan x="10" dy="18">• Hawaii Five-0 S07E02 (2010)</tspan>
             <tspan x="10" dy="18">• Hawaii Five-0 S07E02 (2010)</tspan>
@@ -5070,12 +5084,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#ebedf0"
+          fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(272, 22)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(272, -68)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Thu, 23. Apr 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 23. Apr 2026: 5 items watched</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E03 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E02 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E02 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E01 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E01 (2025)</tspan>
           </text>
         </g>
       </a>
@@ -46313,7 +46332,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2020</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">3116 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">3115 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -46335,7 +46354,7 @@
         <text x="99" y="75" font-size="9" fill="#1f2328" text-anchor="middle">112</text>
         <rect x="92" y="78" width="14" height="2" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
-        <text x="123" y="32" font-size="9" fill="#1f2328" text-anchor="middle">2421</text>
+        <text x="123" y="32" font-size="9" fill="#1f2328" text-anchor="middle">2420</text>
         <rect x="116" y="35" width="14" height="45" rx="2" fill="#ed4c55"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
         <text x="147" y="74" font-size="9" fill="#1f2328" text-anchor="middle">185</text>
@@ -50715,10 +50734,10 @@
           rx="2"
           fill="#ed1c24"
         />
-        <g class="tooltip-group" transform="translate(102, -40712)">
-          <rect x="0" y="0" width="301" height="40772" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(102, -40694)">
+          <rect x="0" y="0" width="301" height="40754" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Thu, 13. Feb 2020: 2263 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 13. Feb 2020: 2262 items watched</tspan>
             <tspan x="10" dy="18">• Ronald Goedemondt: Geen Sprake Van (2018)</tspan>
             <tspan x="10" dy="18">• 9-1-1 S03E10 (2018)</tspan>
             <tspan x="10" dy="18">• 9-1-1 S03E09 (2018)</tspan>
@@ -52677,7 +52696,6 @@
             <tspan x="10" dy="18">• How I Met Your Mother S02E04 (2005)</tspan>
             <tspan x="10" dy="18">• How I Met Your Mother S02E03 (2005)</tspan>
             <tspan x="10" dy="18">• How I Met Your Mother S02E02 (2005)</tspan>
-            <tspan x="10" dy="18">• How I Met Your Mother S02E01 (2005)</tspan>
             <tspan x="10" dy="18">• How I Met Your Mother S02E01 (2005)</tspan>
             <tspan x="10" dy="18">• How I Met Your Mother S01E22 (2005)</tspan>
             <tspan x="10" dy="18">• How I Met Your Mother S01E21 (2005)</tspan>
@@ -56086,7 +56104,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2019</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">876 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">875 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -56096,8 +56114,8 @@
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="43" font-size="9" fill="#1f2328" text-anchor="middle">122</text>
-        <rect x="20" y="46" width="14" height="34" rx="2" fill="#ed4c55"/>
+        <text x="27" y="42" font-size="9" fill="#1f2328" text-anchor="middle">122</text>
+        <rect x="20" y="45" width="14" height="35" rx="2" fill="#ed4c55"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
         <text x="51" y="34" font-size="9" fill="#1f2328" text-anchor="middle">153</text>
         <rect x="44" y="37" width="14" height="43" rx="2" fill="#ed4c55"/>
@@ -56108,14 +56126,14 @@
         <text x="99" y="49" font-size="9" fill="#1f2328" text-anchor="middle">98</text>
         <rect x="92" y="52" width="14" height="28" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
-        <text x="123" y="32" font-size="9" fill="#1f2328" text-anchor="middle">160</text>
+        <text x="123" y="32" font-size="9" fill="#1f2328" text-anchor="middle">159</text>
         <rect x="116" y="35" width="14" height="45" rx="2" fill="#ed4c55"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
         <text x="147" y="41" font-size="9" fill="#1f2328" text-anchor="middle">128</text>
         <rect x="140" y="44" width="14" height="36" rx="2" fill="#ed4c55"/>
         <text x="147" y="100" font-size="9" fill="#1f2328" text-anchor="middle">F</text>
-        <text x="171" y="58" font-size="9" fill="#1f2328" text-anchor="middle">69</text>
-        <rect x="164" y="61" width="14" height="19" rx="2" fill="#ed4c55"/>
+        <text x="171" y="57" font-size="9" fill="#1f2328" text-anchor="middle">69</text>
+        <rect x="164" y="60" width="14" height="20" rx="2" fill="#ed4c55"/>
         <text x="171" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
       </g>
     </g>
@@ -61447,12 +61465,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#ed4c55"
+          fill="#ff8a8f"
         />
-        <g class="tooltip-group" transform="translate(659, -230)">
-          <rect x="0" y="0" width="280" height="290" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -212)">
+          <rect x="0" y="0" width="280" height="272" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Thu, 5. Dec 2019: 14 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 5. Dec 2019: 13 items watched</tspan>
             <tspan x="10" dy="18">• Family Guy S17E12 (1999)</tspan>
             <tspan x="10" dy="18">• Family Guy S17E11 (1999)</tspan>
             <tspan x="10" dy="18">• Family Guy S17E10 (1999)</tspan>
@@ -61465,7 +61483,6 @@
             <tspan x="10" dy="18">• Family Guy S17E03 (1999)</tspan>
             <tspan x="10" dy="18">• The Steve Harvey Show S01E02 (1996)</tspan>
             <tspan x="10" dy="18">• Family Guy S17E01 (1999)</tspan>
-            <tspan x="10" dy="18">• Riverdale S04E08 (2017)</tspan>
             <tspan x="10" dy="18">• Riverdale S04E08 (2017)</tspan>
           </text>
         </g>
