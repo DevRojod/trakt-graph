@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12346</tspan>
+      <tspan dx="5" fill="#e6edf3">12365</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,7 +112,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1127 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1146 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -137,8 +137,8 @@
         <text x="123" y="61" font-size="9" fill="#f0f6fc" text-anchor="middle">118</text>
         <rect x="116" y="64" width="14" height="16" rx="2" fill="#c41e2a"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="58" font-size="9" fill="#f0f6fc" text-anchor="middle">141</text>
-        <rect x="140" y="61" width="14" height="19" rx="2" fill="#c41e2a"/>
+        <text x="147" y="55" font-size="9" fill="#f0f6fc" text-anchor="middle">160</text>
+        <rect x="140" y="58" width="14" height="22" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
         <text x="171" y="61" font-size="9" fill="#f0f6fc" text-anchor="middle">115</text>
         <rect x="164" y="64" width="14" height="16" rx="2" fill="#c41e2a"/>
@@ -6184,10 +6184,29 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(272, -87)">
-          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(272, -429)">
+          <rect x="0" y="0" width="280" height="506" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 24. Apr 2026: 7 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 24. Apr 2026: 26 items watched</tspan>
+            <tspan x="10" dy="18">• The Pitt S02E02 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S02E01 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S02E01 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E15 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E15 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E14 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E14 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E13 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E12 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E12 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E11 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E10 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E10 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E10 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E09 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E09 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E08 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E07 (2025)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E07 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E06 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E06 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E05 (2025)</tspan>
