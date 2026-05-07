@@ -99,7 +99,7 @@
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">12486</tspan>
+      <tspan dx="5" fill="#1f2328">12494</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -112,7 +112,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1267 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1275 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -131,8 +131,8 @@
         <text x="75" y="59" font-size="9" fill="#1f2328" text-anchor="middle">143</text>
         <rect x="68" y="62" width="14" height="18" rx="2" fill="#ed4c55"/>
         <text x="75" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="99" y="57" font-size="9" fill="#1f2328" text-anchor="middle">153</text>
-        <rect x="92" y="60" width="14" height="20" rx="2" fill="#ed4c55"/>
+        <text x="99" y="56" font-size="9" fill="#1f2328" text-anchor="middle">161</text>
+        <rect x="92" y="59" width="14" height="21" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
         <text x="123" y="60" font-size="9" fill="#1f2328" text-anchor="middle">136</text>
         <rect x="116" y="63" width="14" height="17" rx="2" fill="#ed4c55"/>
@@ -4136,10 +4136,18 @@
           rx="2"
           fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(306, -85)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(306, -229)">
+          <rect x="0" y="0" width="280" height="272" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Wed, 6. May 2026: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 6. May 2026: 13 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S31E05 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S31E05 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S31E03 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S31E03 (1989)</tspan>
+            <tspan x="10" dy="18">• NCIS S23E19 (2003)</tspan>
+            <tspan x="10" dy="18">• NCIS: Sydney S03E18 (2023)</tspan>
+            <tspan x="10" dy="18">• NCIS: Sydney S03E18 (2023)</tspan>
+            <tspan x="10" dy="18">• CIA S01E10 (2026)</tspan>
             <tspan x="10" dy="18">• FBI S08E20 (2018)</tspan>
             <tspan x="10" dy="18">• FBI S08E20 (2018)</tspan>
             <tspan x="10" dy="18">• The Rookie S08E18 (2018)</tspan>
