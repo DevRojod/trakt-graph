@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12500</tspan>
+      <tspan dx="5" fill="#e6edf3">12502</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,12 +112,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1281 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1283 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">120 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">121 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -140,7 +140,7 @@
         <text x="147" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">162</text>
         <rect x="140" y="59" width="14" height="21" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
-        <text x="171" y="60" font-size="9" fill="#f0f6fc" text-anchor="middle">135</text>
+        <text x="171" y="60" font-size="9" fill="#f0f6fc" text-anchor="middle">137</text>
         <rect x="164" y="63" width="14" height="17" rx="2" fill="#c41e2a"/>
         <text x="171" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
       </g>
@@ -7430,12 +7430,14 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(306, 56)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(306, 20)">
+          <rect x="0" y="0" width="336" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 9. May 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 9. May 2026: 2 items watched</tspan>
+            <tspan x="10" dy="18">• 9-1-1: Nashville S01E18 (2025)</tspan>
+            <tspan x="10" dy="18">• Georgie &amp; Mandy&apos;s First Marriage S02E19 (2024)</tspan>
           </text>
         </g>
       </a>
