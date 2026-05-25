@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12584</tspan>
+      <tspan dx="5" fill="#e6edf3">12620</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,36 +112,36 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1366 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1402 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">134 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">135 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">361</text>
+        <text x="27" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">385</text>
         <rect x="20" y="35" width="14" height="45" rx="2" fill="#c41e2a"/>
         <text x="27" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
-        <text x="51" y="52" font-size="9" fill="#f0f6fc" text-anchor="middle">199</text>
+        <text x="51" y="52" font-size="9" fill="#f0f6fc" text-anchor="middle">211</text>
         <rect x="44" y="55" width="14" height="25" rx="2" fill="#c41e2a"/>
         <text x="51" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">M</text>
-        <text x="75" y="57" font-size="9" fill="#f0f6fc" text-anchor="middle">161</text>
-        <rect x="68" y="60" width="14" height="20" rx="2" fill="#c41e2a"/>
+        <text x="75" y="58" font-size="9" fill="#f0f6fc" text-anchor="middle">161</text>
+        <rect x="68" y="61" width="14" height="19" rx="2" fill="#c41e2a"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="99" y="55" font-size="9" fill="#f0f6fc" text-anchor="middle">174</text>
-        <rect x="92" y="58" width="14" height="22" rx="2" fill="#c41e2a"/>
+        <text x="99" y="57" font-size="9" fill="#f0f6fc" text-anchor="middle">174</text>
+        <rect x="92" y="60" width="14" height="20" rx="2" fill="#c41e2a"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
-        <text x="123" y="58" font-size="9" fill="#f0f6fc" text-anchor="middle">155</text>
-        <rect x="116" y="61" width="14" height="19" rx="2" fill="#c41e2a"/>
+        <text x="123" y="59" font-size="9" fill="#f0f6fc" text-anchor="middle">155</text>
+        <rect x="116" y="62" width="14" height="18" rx="2" fill="#c41e2a"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="55" font-size="9" fill="#f0f6fc" text-anchor="middle">175</text>
-        <rect x="140" y="58" width="14" height="22" rx="2" fill="#c41e2a"/>
+        <text x="147" y="57" font-size="9" fill="#f0f6fc" text-anchor="middle">175</text>
+        <rect x="140" y="60" width="14" height="20" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
-        <text x="171" y="59" font-size="9" fill="#f0f6fc" text-anchor="middle">141</text>
-        <rect x="164" y="62" width="14" height="18" rx="2" fill="#c41e2a"/>
+        <text x="171" y="61" font-size="9" fill="#f0f6fc" text-anchor="middle">141</text>
+        <rect x="164" y="64" width="14" height="16" rx="2" fill="#c41e2a"/>
         <text x="171" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
       </g>
     </g>
@@ -913,10 +913,34 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(357, -64)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(357, -496)">
+          <rect x="0" y="0" width="280" height="488" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 24. May 2026: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 24. May 2026: 25 items watched</tspan>
+            <tspan x="10" dy="18">• The Office S06E14 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E13 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E12 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E13 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E12 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E11 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E11 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E12 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E10 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E11 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E09 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E10 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E10 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E08 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E09 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E06 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E08 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E07 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E07 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E07 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E06 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E07 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E05 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E05 (2005)</tspan>
             <tspan x="10" dy="18">• Boston Blue S01E20 (2025)</tspan>
           </text>
         </g>
@@ -2047,12 +2071,24 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(357, -29)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(357, -245)">
+          <rect x="0" y="0" width="280" height="254" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 25. May 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 25. May 2026: 12 items watched</tspan>
+            <tspan x="10" dy="18">• The Office S06E20 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E22 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E21 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E19 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E20 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E18 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E17 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E19 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E16 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E17 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E16 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S06E15 (2005)</tspan>
           </text>
         </g>
       </a>
