@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12630</tspan>
+      <tspan dx="5" fill="#e6edf3">12633</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,7 +112,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1412 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1415 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -137,7 +137,7 @@
         <text x="123" y="59" font-size="9" fill="#f0f6fc" text-anchor="middle">157</text>
         <rect x="116" y="62" width="14" height="18" rx="2" fill="#c41e2a"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">177</text>
+        <text x="147" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">180</text>
         <rect x="140" y="59" width="14" height="21" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
         <text x="171" y="61" font-size="9" fill="#f0f6fc" text-anchor="middle">141</text>
@@ -6538,10 +6538,13 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(357, 3)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(357, -51)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 29. May 2026: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 29. May 2026: 5 items watched</tspan>
+            <tspan x="10" dy="18">• The Office S07E04 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S07E03 (2005)</tspan>
+            <tspan x="10" dy="18">• The Office S07E02 (2005)</tspan>
             <tspan x="10" dy="18">• The Office S07E01 (2005)</tspan>
             <tspan x="10" dy="18">• The Office S07E01 (2005)</tspan>
           </text>
