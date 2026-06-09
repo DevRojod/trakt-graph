@@ -99,7 +99,7 @@
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">12666</tspan>
+      <tspan dx="5" fill="#1f2328">12676</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -112,12 +112,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1448 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1458 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">145 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">146 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -125,11 +125,11 @@
         <text x="27" y="32" font-size="9" fill="#1f2328" text-anchor="middle">387</text>
         <rect x="20" y="35" width="14" height="45" rx="2" fill="#ed4c55"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
-        <text x="51" y="52" font-size="9" fill="#1f2328" text-anchor="middle">218</text>
-        <rect x="44" y="55" width="14" height="25" rx="2" fill="#ed4c55"/>
+        <text x="51" y="51" font-size="9" fill="#1f2328" text-anchor="middle">225</text>
+        <rect x="44" y="54" width="14" height="26" rx="2" fill="#ed4c55"/>
         <text x="51" y="100" font-size="9" fill="#1f2328" text-anchor="middle">M</text>
-        <text x="75" y="57" font-size="9" fill="#1f2328" text-anchor="middle">174</text>
-        <rect x="68" y="60" width="14" height="20" rx="2" fill="#ed4c55"/>
+        <text x="75" y="56" font-size="9" fill="#1f2328" text-anchor="middle">177</text>
+        <rect x="68" y="59" width="14" height="21" rx="2" fill="#ed4c55"/>
         <text x="75" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
         <text x="99" y="57" font-size="9" fill="#1f2328" text-anchor="middle">176</text>
         <rect x="92" y="60" width="14" height="20" rx="2" fill="#ed4c55"/>
@@ -2128,10 +2128,17 @@
           rx="2"
           fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(391, -65)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(391, -191)">
+          <rect x="0" y="0" width="280" height="200" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Mon, 8. Jun 2026: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 8. Jun 2026: 9 items watched</tspan>
+            <tspan x="10" dy="18">• Hostage S01E02 (2025)</tspan>
+            <tspan x="10" dy="18">• Hostage S01E01 (2025)</tspan>
+            <tspan x="10" dy="18">• Rick and Morty S09E03 (2013)</tspan>
+            <tspan x="10" dy="18">• Paradise S02E08 (2025)</tspan>
+            <tspan x="10" dy="18">• Paradise S02E07 (2025)</tspan>
+            <tspan x="10" dy="18">• Paradise S02E06 (2025)</tspan>
+            <tspan x="10" dy="18">• Paradise S02E05 (2025)</tspan>
             <tspan x="10" dy="18">• Paradise S02E03 (2025)</tspan>
             <tspan x="10" dy="18">• Paradise S02E04 (2025)</tspan>
           </text>
@@ -3238,12 +3245,15 @@
           width="14"
           height="14"
           rx="2"
-          fill="#ebedf0"
+          fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(391, -12)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(391, -66)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Tue, 9. Jun 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 9. Jun 2026: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Hostage S01E05 (2025)</tspan>
+            <tspan x="10" dy="18">• Hostage S01E04 (2025)</tspan>
+            <tspan x="10" dy="18">• Hostage S01E03 (2025)</tspan>
           </text>
         </g>
       </a>
