@@ -95,11 +95,11 @@
       </a>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">193</tspan>
+      <tspan dx="5" fill="#1f2328">194</tspan>
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">12690</tspan>
+      <tspan dx="5" fill="#1f2328">12695</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -112,21 +112,21 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1482 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">1488 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">150 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">151 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="32" font-size="9" fill="#1f2328" text-anchor="middle">397</text>
+        <text x="27" y="32" font-size="9" fill="#1f2328" text-anchor="middle">402</text>
         <rect x="20" y="35" width="14" height="45" rx="2" fill="#ed4c55"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
-        <text x="51" y="51" font-size="9" fill="#1f2328" text-anchor="middle">225</text>
-        <rect x="44" y="54" width="14" height="26" rx="2" fill="#ed4c55"/>
+        <text x="51" y="52" font-size="9" fill="#1f2328" text-anchor="middle">226</text>
+        <rect x="44" y="55" width="14" height="25" rx="2" fill="#ed4c55"/>
         <text x="51" y="100" font-size="9" fill="#1f2328" text-anchor="middle">M</text>
         <text x="75" y="57" font-size="9" fill="#1f2328" text-anchor="middle">178</text>
         <rect x="68" y="60" width="14" height="20" rx="2" fill="#ed4c55"/>
@@ -994,10 +994,15 @@
           rx="2"
           fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(408, -226)">
-          <rect x="0" y="0" width="294" height="218" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(408, -316)">
+          <rect x="0" y="0" width="294" height="308" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Sun, 14. Jun 2026: 10 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 14. Jun 2026: 15 items watched</tspan>
+            <tspan x="10" dy="18">• Tracker S01E12 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S01E11 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S01E10 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S01E09 (2024)</tspan>
+            <tspan x="10" dy="18">• A Million Ways to Die in the West (2014)</tspan>
             <tspan x="10" dy="18">• A Million Ways to Die in the West (2014)</tspan>
             <tspan x="10" dy="18">• A Million Ways to Die in the West (2014)</tspan>
             <tspan x="10" dy="18">• A Million Ways to Die in the West (2014)</tspan>
@@ -2163,12 +2168,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#ebedf0"
+          fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(408, -29)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(408, -47)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Mon, 15. Jun 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 15. Jun 2026: 1 item watched</tspan>
+            <tspan x="10" dy="18">• Banshee S04E01 (2013)</tspan>
           </text>
         </g>
       </a>
