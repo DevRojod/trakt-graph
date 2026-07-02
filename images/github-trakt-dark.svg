@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12727</tspan>
+      <tspan dx="5" fill="#e6edf3">12733</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,7 +112,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1520 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1526 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -131,8 +131,8 @@
         <text x="75" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">194</text>
         <rect x="68" y="59" width="14" height="21" rx="2" fill="#c41e2a"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="99" y="57" font-size="9" fill="#f0f6fc" text-anchor="middle">184</text>
-        <rect x="92" y="60" width="14" height="20" rx="2" fill="#c41e2a"/>
+        <text x="99" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">190</text>
+        <rect x="92" y="59" width="14" height="21" rx="2" fill="#c41e2a"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
         <text x="123" y="58" font-size="9" fill="#f0f6fc" text-anchor="middle">174</text>
         <rect x="116" y="61" width="14" height="19" rx="2" fill="#c41e2a"/>
@@ -4464,10 +4464,16 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(442, -49)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(442, -157)">
+          <rect x="0" y="0" width="280" height="200" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 1. Jul 2026: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 1. Jul 2026: 9 items watched</tspan>
+            <tspan x="10" dy="18">• Tracker S02E11 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S02E10 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S02E10 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S02E10 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S02E09 (2024)</tspan>
+            <tspan x="10" dy="18">• Tracker S02E08 (2024)</tspan>
             <tspan x="10" dy="18">• The Bear S05E08 (2022)</tspan>
             <tspan x="10" dy="18">• The Bear S05E08 (2022)</tspan>
             <tspan x="10" dy="18">• The Bear S05E07 (2022)</tspan>
