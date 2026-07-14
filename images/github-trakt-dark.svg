@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12767</tspan>
+      <tspan dx="5" fill="#e6edf3">12769</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,7 +112,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1560 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1562 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -125,7 +125,7 @@
         <text x="27" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">414</text>
         <rect x="20" y="35" width="14" height="45" rx="2" fill="#c41e2a"/>
         <text x="27" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
-        <text x="51" y="50" font-size="9" fill="#f0f6fc" text-anchor="middle">247</text>
+        <text x="51" y="50" font-size="9" fill="#f0f6fc" text-anchor="middle">249</text>
         <rect x="44" y="53" width="14" height="27" rx="2" fill="#c41e2a"/>
         <text x="51" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">M</text>
         <text x="75" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">194</text>
@@ -2275,10 +2275,12 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(476, -47)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(476, -83)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 13. Jul 2026: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 13. Jul 2026: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Rick and Morty S09E08 (2013)</tspan>
+            <tspan x="10" dy="18">• Family Guy S21E07 (1999)</tspan>
             <tspan x="10" dy="18">• Family Guy S21E04 (1999)</tspan>
           </text>
         </g>
