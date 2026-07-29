@@ -99,7 +99,7 @@
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">12806</tspan>
+      <tspan dx="5" fill="#e6edf3">12816</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -112,12 +112,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1599 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">1609 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">179 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">181 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -128,10 +128,10 @@
         <text x="51" y="50" font-size="9" fill="#f0f6fc" text-anchor="middle">256</text>
         <rect x="44" y="53" width="14" height="27" rx="2" fill="#c41e2a"/>
         <text x="51" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">M</text>
-        <text x="75" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">198</text>
-        <rect x="68" y="59" width="14" height="21" rx="2" fill="#c41e2a"/>
+        <text x="75" y="55" font-size="9" fill="#f0f6fc" text-anchor="middle">203</text>
+        <rect x="68" y="58" width="14" height="22" rx="2" fill="#c41e2a"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="99" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">195</text>
+        <text x="99" y="56" font-size="9" fill="#f0f6fc" text-anchor="middle">200</text>
         <rect x="92" y="59" width="14" height="21" rx="2" fill="#c41e2a"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
         <text x="123" y="58" font-size="9" fill="#f0f6fc" text-anchor="middle">178</text>
@@ -3460,12 +3460,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(510, -12)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(510, -102)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 28. Jul 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 28. Jul 2026: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E04 (2006)</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E04 (2006)</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E02 (2006)</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E01 (2006)</tspan>
+            <tspan x="10" dy="18">• Tracker S03E22 (2024)</tspan>
           </text>
         </g>
       </a>
@@ -4591,12 +4596,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(510, 5)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(510, -85)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 29. Jul 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 29. Jul 2026: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E10 (2006)</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E09 (2006)</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E08 (2006)</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E07 (2006)</tspan>
+            <tspan x="10" dy="18">• Hannah Montana S01E06 (2006)</tspan>
           </text>
         </g>
       </a>
